@@ -1,5 +1,11 @@
 # Cryptocurrency Icons
 
+## NEW CRYPTO ICONS ADDED FOR Y'ALL!
+
+1INCH, AKRO, BTCST, CAKE, COS, FTT, IOTA, JST, KAVA, LIT, MDX, REEF, RSR, SUN, SXP, YFII
+
+PROJECT CREDIT GOES TO SPOTHQ. Forked From [CryptoCurrency Icons](https://github.com/spothq/cryptocurrency-icons)
+
 [This project](http://cryptoicons.co) contains over 7,500 icons – almost 500 crypto currencies, in 4 styles and a range of sizes. Completely free. All we ask is that you don’t claim them as your own, and share this resource with others.
 
 We also have some fiat currencies: `USD`, `GBP`, `EUR`, `JPY`, `CNY`, `RUB`. *(We don't intend to add more)*
